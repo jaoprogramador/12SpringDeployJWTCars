@@ -24,6 +24,11 @@ import com.jao.spring.service.CarService;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiParam;
 
+/**
+ * 
+ * @author Guillermo
+ *Controllador que gestiona las peticiones post y het de la entidad Car y dispone de metodos CRUD
+ **/
 @RestController
 @RequestMapping("/api")
 
